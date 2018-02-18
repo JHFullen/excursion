@@ -1,4 +1,45 @@
+html {
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+
+}
+
 h1 {
-  font-size: 150px;
-  font-family: cursive;
+  font-size: 50px;
+  font-family: verdana;
+  color: white;
+  text-align: center;
+  font-weight: normal;
+}
+
+
+h2 {
+font-weight: 300;
+color: white;
+font-size: 42px;
+
+}
+
+h3 {
+
+
+}
+
+h4 {
+  font-size: 16px;
+  color: aquamarine;
+  font-weight: lighter;
+  text-decoration: underline;
+}
+
+#main {
+  font-size: 21px;
+  color: gray;
+}
+
+footer {
+  color: white;
+  text-align: right;
+  font: 16px;
 }
